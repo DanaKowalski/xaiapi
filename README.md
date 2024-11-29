@@ -1,5 +1,5 @@
 # xaiapi
-X AI API ColdFusion
+x.ai API in ColdFusion
 
 https://docs.x.ai/docs
 
